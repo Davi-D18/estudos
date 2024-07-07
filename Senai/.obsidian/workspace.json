@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "d491e89c847996ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "651c2ea2ac59c40e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dce3b2e66a0b1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9ba760d95eb27ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec06da2d12c9687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e279e82dcd448d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11f18d4346b3fcb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d44af92d57066e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adc399db533fa853",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d7b9ea64745c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "583b293eec071d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "305523500c14d292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f2d993183778583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fb4d27e44deb27f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md"
+              }
+            }
+          },
+          {
+            "id": "c742ad3f9e28dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false,
+      "translate:Open translation view": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false
+    }
+  },
+  "active": "0dce3b2e66a0b1cc",
+  "lastOpenFiles": [
+    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
+    "Front-end em React/assets/Pasted image 20240706100210.png",
+    "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+    "Front-end em React/Javascript/Aula 7 - Funcional.md",
+    "Front-end em React/Javascript/Aula 5 - Funções e Objects.md",
+    "Front-end em React/Javascript/Aula 4 - Métodos de Arrays.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
+    "Front-end em React/APIs/APIs para praticar.md",
+    "Front-end em React/APIs",
+    "Front-end em React/Javascript/Aula 2 - Básico de JS.md",
+    "Front-end em React/Javascript/Sem título.canvas",
+    "Sem título.canvas",
+    "Front-end em React/Javascript/Kanban sem título.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
+    "Front-end em React/assets/Pasted image 20240704103710.png",
+    "Front-end em React/assets/Pasted image 20240704095302.png",
+    "Front-end em React/assets/Pasted image 20240704095053.png",
+    "Front-end em React/assets/Pasted image 20240704094711.png",
+    "Pasted image 20240704094109.png",
+    "Front-end em React/assets/Pasted image 20240704093819.png",
+    "Front-end em React/assets/Pasted image 20240704093650.png",
+    "Front-end em React/assets/Pasted image 20240704092538.png",
+    "Front-end em React/assets/Pasted image 20240704092214.png",
+    "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+    "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
+    "Kanban sem título.md",
+    "Front-end em React/Typescript, Browser e POO",
+    "Recording 20240629225354.webm"
+  ]
+}
