@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md"
+                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md"
               }
             }
           },
@@ -146,10 +146,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-importer:Open Importer": false,
-      "translate:Open translation view": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -157,7 +153,11 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false,
+      "translate:Open translation view": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
   "active": "0dce3b2e66a0b1cc",
