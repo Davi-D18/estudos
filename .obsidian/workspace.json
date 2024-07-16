@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md"
+                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "0dce3b2e66a0b1cc",
   "lastOpenFiles": [
+    "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
     "Front-end em React/assets/Pasted image 20240706100210.png",
     "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
