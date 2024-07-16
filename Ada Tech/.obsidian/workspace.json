@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "651c2ea2ac59c40e",
+        "id": "b015fdcbd12c70b7",
         "type": "tabs",
         "children": [
           {
-            "id": "48bfb04526948589",
+            "id": "84b35c1fc4f191e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2519d7d1c6041c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md"
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md"
               }
             }
           },
@@ -175,33 +163,37 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "2519d7d1c6041c26",
+  "active": "84b35c1fc4f191e9",
   "lastOpenFiles": [
-    "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+    "Front-end em React/assets/Pasted image 20240708100926.png",
+    "Front-end em React/assets/Pasted image 20240629110555.png",
+    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+    "Pasted image 20240708102555.png.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).sync-conflict-20240708-181533-QT6XVWH.md",
     "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
-    "Front-end em React/Javascript/Aula 5 - Funções e Objects.md",
-    "Front-end em React/Javascript/Aula 4 - Métodos de Arrays.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
-    "Front-end em React/assets/Pasted image 20240706100210.png",
+    "Front-end em React/assets/Pasted image 20240708102555.png",
+    "Front-end em React/assets/Pasted image 20240708094239.png",
+    "Front-end em React/assets/Pasted image 20240708090024.png",
+    "Front-end em React/assets/Pasted image 20240708085551.png",
+    "Front-end em React/assets/Pasted image 20240708085359.png",
+    "Front-end em React/assets/Pasted image 20240708085200.png",
+    "Front-end em React/Javascript/Sem título.canvas",
+    "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
     "Front-end em React/Javascript/Aula 7 - Funcional.md",
     "Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
+    "Front-end em React/Javascript/Aula 5 - Funções e Objects.md",
+    "Front-end em React/Javascript/Aula 4 - Métodos de Arrays.md",
+    "Front-end em React/assets/Pasted image 20240706100210.png",
     "Front-end em React/APIs/APIs para praticar.md",
     "Front-end em React/APIs",
     "Front-end em React/Javascript/Aula 2 - Básico de JS.md",
-    "Front-end em React/Javascript/Sem título.canvas",
     "Sem título.canvas",
     "Front-end em React/Javascript/Kanban sem título.md",
     "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
     "Front-end em React/assets/Pasted image 20240704103710.png",
     "Front-end em React/assets/Pasted image 20240704095302.png",
-    "Front-end em React/assets/Pasted image 20240704095053.png",
-    "Front-end em React/assets/Pasted image 20240704094711.png",
-    "Pasted image 20240704094109.png",
-    "Front-end em React/assets/Pasted image 20240704093819.png",
-    "Front-end em React/assets/Pasted image 20240704093650.png",
-    "Front-end em React/assets/Pasted image 20240704092538.png",
-    "Front-end em React/assets/Pasted image 20240704092214.png",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Kanban sem título.md",

@@ -1,3 +1,4 @@
+[[Aula 3 - Consumo de API]]
 ![[Pasted image 20240704092214.png]]
 ![[Pasted image 20240704092538.png]]
 # Tipos de APIs

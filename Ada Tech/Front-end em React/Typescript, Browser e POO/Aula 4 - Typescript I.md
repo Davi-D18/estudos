@@ -1,3 +1,5 @@
+
+[[Aula 5 - Typescript II]]
 Link para o site oficial: [typescript](https://typescriptlang.org)
 ![[Pasted image 20240706100210.png]]
 # Instalando TS
