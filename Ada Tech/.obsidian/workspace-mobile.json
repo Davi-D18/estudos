@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+            "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+            "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md"
+            "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md"
           }
         }
       },
@@ -149,6 +149,9 @@
   },
   "active": "aca90225ac30dcc6",
   "lastOpenFiles": [
+    "Front-end em React/assets/Screenshot_20240804_182424_Brave.jpg",
+    "Front-end em React/assets/Screenshot_20240804_182216_Brave.jpg",
+    "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md"
   ]
