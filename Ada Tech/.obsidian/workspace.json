@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md"
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md"
               }
             }
           },
@@ -148,11 +148,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-importer:Open Importer": false,
-      "translate:Open translation view": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -160,14 +155,20 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false,
+      "translate:Open translation view": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "84b35c1fc4f191e9",
   "lastOpenFiles": [
+    "Front-end em React/assets/Pasted image 20240805113153.png",
+    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Front-end em React/assets/Pasted image 20240708100926.png",
     "Front-end em React/assets/Pasted image 20240629110555.png",
-    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Pasted image 20240708102555.png.md",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).sync-conflict-20240708-181533-QT6XVWH.md",
     "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
@@ -193,7 +194,6 @@
     "Front-end em React/Javascript/Kanban sem título.md",
     "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
     "Front-end em React/assets/Pasted image 20240704103710.png",
-    "Front-end em React/assets/Pasted image 20240704095302.png",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Kanban sem título.md",

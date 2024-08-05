@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "051a46428b9092e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "639de134b00838e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0267a4795d4f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Especifíco I/codificação_front-end/Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30c4e3921ba0fa9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc24409d06d774c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc92b112c6011b47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38e5742d082776d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec39bf7532db5ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "206272c22e2d1572",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a131e160b44aaa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe85976b3d216fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Especifíco I/codificação_front-end/Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3777bb9be20d9243",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Especifíco I/codificação_front-end/Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "852ba36a2cd63ef3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d78cc04af04c954c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Especifíco I/codificação_front-end/Sem título.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "dc92b112c6011b47",
+  "lastOpenFiles": [
+    "Especifíco I/codificação_front-end/Sem título.md",
+    "Especifíco I/codificação_front-end",
+    "Especifíco I"
+  ]
+}
