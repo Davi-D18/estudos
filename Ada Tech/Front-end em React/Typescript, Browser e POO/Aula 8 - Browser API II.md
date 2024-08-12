@@ -17,7 +17,7 @@ Element.addEventListener('nome-do-evento', (parâmetro) => {
 
 ## Um exemplo
 ![[Pasted image 20240806104601.png]]
-No exemplo acima, é u  contador que contém botões para aumentar e diminuir o valor
+No exemplo acima, é um contador que contém botões para aumentar e diminuir o valor
 
 ## Adicionando estilos ou removendo
 É possível adicionar classes em elementos por meio do JS

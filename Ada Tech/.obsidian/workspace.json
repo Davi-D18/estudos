@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dca53c2127324691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -179,6 +192,9 @@
   },
   "active": "86596ef409f4b737",
   "lastOpenFiles": [
+    "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
     "Front-end em React/assets/Pasted image 20240807211401.png",
     "Front-end em React/assets/Pasted image 20240807210304.png",
     "Front-end em React/assets/Pasted image 20240807210204.png",
@@ -186,8 +202,6 @@
     "Front-end em React/assets/Pasted image 20240806111615.png",
     "Front-end em React/assets/Pasted image 20240806111353.png",
     "Front-end em React/assets/Pasted image 20240806104601.png",
-    "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
     "Front-end em React/assets/Pasted image 20240805113153.png",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Front-end em React/assets/Pasted image 20240708100926.png",
@@ -195,7 +209,6 @@
     "Pasted image 20240708102555.png.md",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).sync-conflict-20240708-181533-QT6XVWH.md",
     "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
-    "Front-end em React/assets/Pasted image 20240708102555.png",
     "Front-end em React/Javascript/Sem título.canvas",
     "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
     "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
