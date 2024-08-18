@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84b35c1fc4f191e9",
+            "id": "7d69e64102163043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
+                "file": "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "86596ef409f4b737",
+            "id": "5f5227361035ee5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca53c2127324691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
+                "file": "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
+                "file": "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
+                "file": "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md"
+                "file": "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md"
               }
             }
           },
@@ -190,10 +177,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "86596ef409f4b737",
+  "active": "5f5227361035ee5e",
   "lastOpenFiles": [
+    "Front-end em React/assets/Pasted image 20240818101712.png",
+    "Front-end em React/assets/Pasted image 20240818100705.png",
+    "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
+    "Front-end em React/React I - Introdução/Aula 1 - Introdução ao React.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 10 - Projeto Condições do Tempo.md",
     "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
     "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
+    "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
+    "webpack.js.org.md",
+    "Front-end em React/assets/Pasted image 20240815100502.png",
+    "Front-end em React/assets/Pasted image 20240815100139.png",
+    "Front-end em React/React I - Introdução",
     "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
     "Front-end em React/assets/Pasted image 20240807211401.png",
     "Front-end em React/assets/Pasted image 20240807210304.png",
@@ -202,10 +199,7 @@
     "Front-end em React/assets/Pasted image 20240806111615.png",
     "Front-end em React/assets/Pasted image 20240806111353.png",
     "Front-end em React/assets/Pasted image 20240806104601.png",
-    "Front-end em React/assets/Pasted image 20240805113153.png",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
-    "Front-end em React/assets/Pasted image 20240708100926.png",
-    "Front-end em React/assets/Pasted image 20240629110555.png",
     "Pasted image 20240708102555.png.md",
     "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).sync-conflict-20240708-181533-QT6XVWH.md",
     "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
@@ -225,7 +219,6 @@
     "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
-    "Kanban sem título.md",
     "Front-end em React/Typescript, Browser e POO",
     "Recording 20240629225354.webm"
   ]

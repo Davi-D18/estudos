@@ -50,5 +50,9 @@
   "Front-end em React/Typescript, Browser e POO": {
     "iconName": "SiTypescript",
     "iconColor": "#3734ef"
+  },
+  "Front-end em React/React I - Introdução": {
+    "iconName": "FabReact",
+    "iconColor": "#1c4fc4"
   }
 }
