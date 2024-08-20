@@ -54,5 +54,9 @@
   "Front-end em React/React I - Introdução": {
     "iconName": "FabReact",
     "iconColor": "#1c4fc4"
+  },
+  "Front-end em React/React II": {
+    "iconName": "FabReact",
+    "iconColor": "#4aa3b5"
   }
 }
