@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d69e64102163043",
+            "id": "c1ed2b8f508bf1e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5f5227361035ee5e",
+            "id": "1dc5115e3c2dc269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "bf51555fb23394c6",
+            "id": "35fd33779a18e7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "c1ed2b8f508bf1e2",
+            "id": "c53c584a91a95140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/React II/Aula 1 - Componentes Funcionais e Estilização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/React II/Aula 1 - Componentes Funcionais e Estilização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/React II/Aula 1 - Componentes Funcionais e Estilização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/React II/Aula 1 - Componentes Funcionais e Estilização.md"
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md"
               }
             }
           },
@@ -203,24 +203,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1ed2b8f508bf1e2",
+  "active": "c53c584a91a95140",
   "lastOpenFiles": [
-    "Front-end em React/assets/Pasted image 20240820105211.png",
-    "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
+    "Front-end em React/assets/Pasted image 20240823145516.png",
+    "Front-end em React/assets/Pasted image 20240823144424.png",
     "Front-end em React/React I - Introdução/Aula 4 - Ciclo de Vida.md",
-    "Front-end em React/React II/Aula 1 - Componentes Funcionais e Estilização.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
+    "Front-end em React/assets/Pasted image 20240821112838.png",
+    "Front-end em React/assets/Pasted image 20240821111804.png",
+    "Front-end em React/assets/Pasted image 20240821105656.png",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
+    "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
     "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
-    "Front-end em React/React II",
+    "Front-end em React/assets/Pasted image 20240820105211.png",
+    "Front-end em React/React II - Funcionais e Hooks",
     "Front-end em React/assets/Pasted image 20240819150314.png",
     "Front-end em React/assets/Pasted image 20240819145423.png",
     "Front-end em React/assets/Pasted image 20240819105317.png",
     "Front-end em React/assets/Pasted image 20240819102954.png",
     "Front-end em React/assets/Pasted image 20240819095857.png",
-    "Front-end em React/assets/Pasted image 20240819095750.png",
-    "Front-end em React/assets/Pasted image 20240819095112.png",
-    "Front-end em React/assets/Pasted image 20240819094507.png",
-    "Front-end em React/assets/Pasted image 20240818101712.png",
-    "Front-end em React/assets/Pasted image 20240818100705.png",
     "Front-end em React/React I - Introdução/Aula 1 - Introdução ao React.md",
     "Front-end em React/Typescript, Browser e POO/Aula 10 - Projeto Condições do Tempo.md",
     "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
@@ -244,8 +246,6 @@
     "Front-end em React/APIs",
     "Front-end em React/Javascript/Aula 2 - Básico de JS.md",
     "Sem título.canvas",
-    "Front-end em React/Javascript/Kanban sem título.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
     "Front-end em React/Typescript, Browser e POO",
     "Recording 20240629225354.webm"
   ]

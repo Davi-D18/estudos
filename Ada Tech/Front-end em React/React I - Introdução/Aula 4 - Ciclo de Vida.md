@@ -12,6 +12,7 @@
 ![[Pasted image 20240819095857.png]]
 
 # Métodos do Ciclo de Vida
+#CicloDeVida
 ## Montagem 
 - `Constructor()`
 - `componentWillMount`
