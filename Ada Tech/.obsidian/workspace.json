@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b015fdcbd12c70b7",
+        "id": "1a9a4048ae45987c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ed2b8f508bf1e2",
+            "id": "cd12e5317413bf35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dc5115e3c2dc269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35fd33779a18e7ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/React I - Introdução/Aula 4 - Ciclo de Vida.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c53c584a91a95140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md"
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md"
               }
             }
           },
@@ -203,48 +163,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c53c584a91a95140",
+  "active": "cd12e5317413bf35",
   "lastOpenFiles": [
+    "Pasted image 20240901104550.png",
+    "Front-end em React/assets/Pasted image 20240901101759.png",
+    "Front-end em React/assets/Pasted image 20240901095800.png",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
+    "Front-end em React/React II - Funcionais e Hooks/Dicas.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
+    "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
+    "Front-end em React/assets/Pasted image 20240901093734.png",
+    "Front-end em React/assets/Pasted image 20240901092438.png",
+    "Front-end em React/assets/Pasted image 20240831184638.png",
+    "Front-end em React/assets/Pasted image 20240831104603.png",
+    "Sem título",
+    "Front-end em React/APIs e Bibliotecas/APIs para praticar.md",
+    "Front-end em React/Javascript/Métodos de Requisição.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
+    "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
+    "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
+    "Front-end em React/Javascript/Aula 7 - Funcional.md",
+    "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
+    "Front-end em React/React I - Introdução/Aula 4 - Ciclo de Vida.md",
     "Front-end em React/assets/Pasted image 20240823145516.png",
     "Front-end em React/assets/Pasted image 20240823144424.png",
-    "Front-end em React/React I - Introdução/Aula 4 - Ciclo de Vida.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
     "Front-end em React/assets/Pasted image 20240821112838.png",
     "Front-end em React/assets/Pasted image 20240821111804.png",
-    "Front-end em React/assets/Pasted image 20240821105656.png",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
     "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
     "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
-    "Front-end em React/assets/Pasted image 20240820105211.png",
     "Front-end em React/React II - Funcionais e Hooks",
-    "Front-end em React/assets/Pasted image 20240819150314.png",
-    "Front-end em React/assets/Pasted image 20240819145423.png",
-    "Front-end em React/assets/Pasted image 20240819105317.png",
-    "Front-end em React/assets/Pasted image 20240819102954.png",
-    "Front-end em React/assets/Pasted image 20240819095857.png",
     "Front-end em React/React I - Introdução/Aula 1 - Introdução ao React.md",
     "Front-end em React/Typescript, Browser e POO/Aula 10 - Projeto Condições do Tempo.md",
     "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 7 - Browser API.md",
-    "webpack.js.org.md",
     "Front-end em React/React I - Introdução",
-    "Front-end em React/Typescript, Browser e POO/Aula 8 - Browser API II.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
-    "Pasted image 20240708102555.png.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).sync-conflict-20240708-181533-QT6XVWH.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 5 - Typescript II.md",
     "Front-end em React/Javascript/Sem título.canvas",
-    "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
-    "Front-end em React/Javascript/Aula 7 - Funcional.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
-    "Front-end em React/Javascript/Aula 5 - Funções e Objects.md",
-    "Front-end em React/Javascript/Aula 4 - Métodos de Arrays.md",
-    "Front-end em React/APIs/APIs para praticar.md",
-    "Front-end em React/APIs",
-    "Front-end em React/Javascript/Aula 2 - Básico de JS.md",
+    "Front-end em React/APIs e Bibliotecas",
     "Sem título.canvas",
     "Front-end em React/Typescript, Browser e POO",
     "Recording 20240629225354.webm"

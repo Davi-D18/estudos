@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📔",
       "SiTypescript",
       "FabSquareJs",
       "FabCss3",
@@ -50,5 +51,6 @@
   "Front-end em React/Typescript, Browser e POO": {
     "iconName": "SiTypescript",
     "iconColor": "#3734ef"
-  }
+  },
+  "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Referências.md": "📔"
 }

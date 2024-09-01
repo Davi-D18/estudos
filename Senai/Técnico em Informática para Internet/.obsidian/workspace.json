@@ -11,12 +11,8 @@
             "id": "4e0267a4795d4f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Especifíco I/codificação_front-end/Sem título.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Especifíco I/codificação_front-end/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Especifíco I/codificação_front-end/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Especifíco I/codificação_front-end/Sem título.md"
-              }
+              "state": {}
             }
           }
         ]

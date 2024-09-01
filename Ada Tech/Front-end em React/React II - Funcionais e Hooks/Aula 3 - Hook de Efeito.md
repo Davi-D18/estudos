@@ -62,3 +62,13 @@ useEffect(() => {
 - **Evita problemas de tempo:** Ao salvar após a atualização do estado, você evita que o `localStorage` seja atualizado com dados incompletos.
 
 ![[Pasted image 20240823145516.png]]Ao utilizar o `useEffect` com array vazio (dependencia) ele executará ao recarregar a página ou montar o componente, vai no `localStorage` e pega a informação e converte ela para um array (pois quando está no `localStorage` está em formato de string) e seta ela para o estado `setTasks`
+# Axios
+#axios
+
+- Caso queira pegar os dados de uma requisição usando o axios, use a variável onde está armazenada os dados e em seguida adicione um `.data`
+
+
+Dentro do React não pode utilizar uma função asíncrona como parâmetro do `useEffect`, nesses casos, crie uma função *dentro* do `useEffect` e use normalmente o `async await`
+
+![[Pasted image 20240831104603.png]]
+Caso o array de notícias seja igual a 0, ele irá exibir o loader, do contrário irá mostrar as notícias e remover o loader

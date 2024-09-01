@@ -1,0 +1,2 @@
+- [Awari](https://awari.com.br/guia-completo-para-realizar-testes-de-frontend-com-sucesso/)
+- 

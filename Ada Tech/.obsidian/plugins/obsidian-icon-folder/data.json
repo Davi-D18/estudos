@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
       "SiTypescript",
       "FabSquareJs",
       "FabCss3",
@@ -58,5 +59,6 @@
   "Front-end em React/React II - Funcionais e Hooks": {
     "iconName": "FabReact",
     "iconColor": "#4aa3b5"
-  }
+  },
+  "Front-end em React/APIs e Bibliotecas/Bibliotecas.md": "📚"
 }
