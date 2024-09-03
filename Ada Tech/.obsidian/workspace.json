@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9a4048ae45987c",
+        "id": "a8294a50fe0ead1b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd12e5317413bf35",
+            "id": "f9d757b302e6e3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md"
+                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md"
               }
             }
           },
@@ -163,21 +163,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cd12e5317413bf35",
+  "active": "f9d757b302e6e3df",
   "lastOpenFiles": [
-    "Pasted image 20240901104550.png",
-    "Front-end em React/assets/Pasted image 20240901101759.png",
-    "Front-end em React/assets/Pasted image 20240901095800.png",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
+    "Front-end em React/assets/Pasted image 20240902114354.png",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
+    "Pasted image 20240902114120.png.md",
+    "Front-end em React/assets/Pasted image 20240902114120.png",
+    "Front-end em React/assets/Pasted image 20240902113719.png",
+    "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
+    "Front-end em React/assets/Pasted image 20240902111740.png",
+    "Front-end em React/assets/Pasted image 20240902104558.png",
+    "Front-end em React/assets/Pasted image 20240901153336.png",
+    "Front-end em React/APIs e Bibliotecas/Ferramentas.md",
+    "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
+    "Pasted image 20240901152038.png",
+    "Front-end em React/assets/Pasted image 20240901151329.png",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+    "Front-end em React/Styled Components",
+    "Pasted image 20240901144742.png",
+    "Front-end em React/assets/Pasted image 20240901143449.png",
     "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
     "Front-end em React/React II - Funcionais e Hooks/Dicas.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
-    "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
-    "Front-end em React/assets/Pasted image 20240901093734.png",
-    "Front-end em React/assets/Pasted image 20240901092438.png",
-    "Front-end em React/assets/Pasted image 20240831184638.png",
-    "Front-end em React/assets/Pasted image 20240831104603.png",
-    "Sem título",
     "Front-end em React/APIs e Bibliotecas/APIs para praticar.md",
     "Front-end em React/Javascript/Métodos de Requisição.md",
     "Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
@@ -190,19 +198,10 @@
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Front-end em React/Javascript/Aula 7 - Funcional.md",
     "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 2 - Hooks de estado.md",
     "Front-end em React/React I - Introdução/Aula 4 - Ciclo de Vida.md",
-    "Front-end em React/assets/Pasted image 20240823145516.png",
-    "Front-end em React/assets/Pasted image 20240823144424.png",
-    "Front-end em React/assets/Pasted image 20240821112838.png",
-    "Front-end em React/assets/Pasted image 20240821111804.png",
     "Front-end em React/React I - Introdução/Aula 3 - Props e Estados.md",
-    "Front-end em React/React I - Introdução/Aula 2 - Componentização.md",
     "Front-end em React/React II - Funcionais e Hooks",
-    "Front-end em React/React I - Introdução/Aula 1 - Introdução ao React.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 10 - Projeto Condições do Tempo.md",
-    "Front-end em React/Typescript, Browser e POO/Aula 9 - Projeto - Lista de Tarefas.md",
     "Front-end em React/React I - Introdução",
     "Front-end em React/Javascript/Sem título.canvas",
     "Front-end em React/APIs e Bibliotecas",

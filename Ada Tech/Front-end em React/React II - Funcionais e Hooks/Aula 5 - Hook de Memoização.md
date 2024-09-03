@@ -60,3 +60,16 @@ Neste exemplo, o `useMemo` é usado para filtrar uma lista de itens. A lista fil
 Um exemplo: ![[Pasted image 20240901101759.png]]
 ## Utilizando o useMemo
 ![[Pasted image 20240901104550.png]]
+
+# useCallback
+![[Pasted image 20240901143449.png]]
+## Uso do useCallback
+
+```tsx
+
+const aplicarDesconto = useCallback((desconto: number) => {
+	return totalOutcomes * (1 - desconto)
+}, [totalOutcomes])
+
+```
+Esse hook de memoização guarda apenas a *definição da variável*, não guarda a função como um todo. E é interessante utilizar em cálculos complexos que exigem da máquina, porém a galera quase não utiliza

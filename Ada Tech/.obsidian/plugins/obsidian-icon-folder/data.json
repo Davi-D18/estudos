@@ -6,14 +6,14 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiComponent",
       "📚",
       "SiTypescript",
       "FabSquareJs",
       "FabCss3",
       "FabReact",
-      "LiAtom",
-      "LiImageDown",
-      "LiImage"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -60,5 +60,13 @@
     "iconName": "FabReact",
     "iconColor": "#4aa3b5"
   },
-  "Front-end em React/APIs e Bibliotecas/Bibliotecas.md": "📚"
+  "Front-end em React/APIs e Bibliotecas/Bibliotecas.md": "📚",
+  "Front-end em React/Styled Components": {
+    "iconName": "LiComponent",
+    "iconColor": "#5e0ff0"
+  },
+  "Front-end em React/APIs e Bibliotecas/Ferramentas.md": {
+    "iconName": "LiAlbum",
+    "iconColor": "#19a944"
+  }
 }
