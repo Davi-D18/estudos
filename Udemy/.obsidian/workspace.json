@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
+                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ada Tech/Front-end em React/HTML e CSS/Flexbox e Grid Layout.md"
+                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md"
               }
             }
           },
@@ -162,6 +162,16 @@
   },
   "active": "0dce3b2e66a0b1cc",
   "lastOpenFiles": [
+    "React + Next.js/assets/Pasted image 20240922193025.png",
+    "React + Next.js/assets/Pasted image 20240922192900.png",
+    "React + Next.js/assets/Pasted image 20240922192800.png",
+    "React + Next.js/assets/Pasted image 20240922192346.png",
+    "React + Next.js/assets/Pasted image 20240922191742.png",
+    "React + Next.js/assets/Pasted image 20240922191350.png",
+    "React + Next.js/assets/Pasted image 20240922190144.png",
+    "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
+    "React + Next.js/1 - Introdução teórica",
+    "React + Next.js/assets",
     "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
     "Front-end em React/assets/Pasted image 20240706100210.png",
@@ -181,12 +191,6 @@
     "Front-end em React/assets/Pasted image 20240704103710.png",
     "Front-end em React/assets/Pasted image 20240704095302.png",
     "Front-end em React/assets/Pasted image 20240704095053.png",
-    "Front-end em React/assets/Pasted image 20240704094711.png",
-    "Pasted image 20240704094109.png",
-    "Front-end em React/assets/Pasted image 20240704093819.png",
-    "Front-end em React/assets/Pasted image 20240704093650.png",
-    "Front-end em React/assets/Pasted image 20240704092538.png",
-    "Front-end em React/assets/Pasted image 20240704092214.png",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Kanban sem título.md",

@@ -11,11 +11,28 @@
             "id": "0dce3b2e66a0b1cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FullStack/Mod - 1/HTML Semântico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b51ec3aeee8ada2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack/Soft Skills/Gestão de Tempo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FullStack/Soft Skills/Gestão de Tempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FullStack/Soft Skills/Gestão de Tempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FullStack/Soft Skills/Gestão de Tempo.md"
+              }
             }
           },
           {
@@ -152,8 +173,16 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "39e279e82dcd448d",
+  "active": "b51ec3aeee8ada2a",
   "lastOpenFiles": [
+    "FullStack/assets/Pasted image 20240919095545.png",
+    "FullStack/assets/Pasted image 20240919094531.png",
+    "FullStack/assets/Pasted image 20240919094404.png",
+    "FullStack/assets",
+    "FullStack/assets/Pasted image 20240919092706.png",
+    "FullStack/Mod - 1/HTML Semântico.md",
+    "FullStack/Soft Skills/Gestão de Tempo.md",
+    "FullStack/Soft Skills",
     "FullStack/Mod - 1",
     "FullStack",
     "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 3 - Consumo de API.md",
@@ -181,9 +210,6 @@
     "Front-end em React/assets/Pasted image 20240704094711.png",
     "Pasted image 20240704094109.png",
     "Front-end em React/assets/Pasted image 20240704093819.png",
-    "Front-end em React/assets/Pasted image 20240704093650.png",
-    "Front-end em React/assets/Pasted image 20240704092538.png",
-    "Front-end em React/assets/Pasted image 20240704092214.png",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Kanban sem título.md",

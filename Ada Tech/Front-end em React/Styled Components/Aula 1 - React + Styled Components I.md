@@ -12,7 +12,7 @@ Depois de criar um componente com o nome que deseja utilize o `styled` depois co
 Essa lib, ela usa meio que um SCSS, então pode utilizar a forma do SCSS dentro dos componentes estilizados
 
 ## Criando estilos globais com a Lib
-Basta criar um arquivo novo com o nome que desejar e clocar no final `.ts / .js` depois importe a lib no arquivo e crie um componente estilizaod seguido de `createGlobalStyle`
+Basta criar um arquivo novo com o nome que desejar e clocar no final `.ts / .js` depois importe a lib no arquivo e crie um componente estilizado seguido de `createGlobalStyle`
 ```tsx
 import styled from "styled-components"
 

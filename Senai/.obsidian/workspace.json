@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b5f3737d4d9b752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnico em Informática para Internet/4 - projeto-front-end/Projeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Tipos de testes.md",
+                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Conceito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Tipos de testes.md",
+                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Conceito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Tipos de testes.md"
+                "file": "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Conceito.md"
               }
             }
           },
@@ -173,10 +185,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "1bc694287165101e",
+  "active": "39e279e82dcd448d",
   "lastOpenFiles": [
-    "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Conceito.md",
     "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Tipos de testes.md",
+    "Técnico em Informática para Internet/4 - projeto-front-end/Projeto.md",
+    "Técnico em Informática para Internet/4 - projeto-front-end",
+    "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Conceito.md",
     "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end/Referências.md",
     "Técnico em Informática para Internet/3 - Especifíco I/testes_de_front-end",
     "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
