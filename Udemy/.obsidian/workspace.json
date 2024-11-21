@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "651c2ea2ac59c40e",
+        "id": "1444b0b3353815e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0dce3b2e66a0b1cc",
+            "id": "2b064460bf6a79d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Preparando Ambiente"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Preparando Ambiente"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Preparando Ambiente"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md"
-              }
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Preparando Ambiente"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -160,21 +178,38 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0dce3b2e66a0b1cc",
+  "active": "39e279e82dcd448d",
   "lastOpenFiles": [
-    "React + Next.js/assets/Pasted image 20240922193025.png",
-    "React + Next.js/assets/Pasted image 20240922192900.png",
-    "React + Next.js/assets/Pasted image 20240922192800.png",
-    "React + Next.js/assets/Pasted image 20240922192346.png",
-    "React + Next.js/assets/Pasted image 20240922191742.png",
-    "React + Next.js/assets/Pasted image 20240922191350.png",
-    "React + Next.js/assets/Pasted image 20240922190144.png",
-    "React + Next.js/1 - Introdução teórica/Introdução ao Next.js.md",
+    "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
+    "PHP 7/1_Introdução PHP",
+    "Laravel + VueJs/1 - Instalação/Laravel.md",
+    "PHP 7",
+    "React + Next.js/1.1 - Boilerplate dp Next.js/1 - Criando um projeto Next e configurando.md",
+    "Laravel + VueJs/1 - Instalação",
+    "React + Next.js/1.1 - Boilerplate dp Next.js",
+    "React + Next.js/1 - Introdução teórica/1 - Introdução ao Next.js.md",
+    "React + Next.js/1 - Introdução teórica/2 - Introdução ao GraphQL.md",
+    "React + Next.js/1 - Introdução teórica/3 - Introdução ao GraphQL Clients.md",
+    "React + Next.js/1 - Introdução teórica/4 - Introdução ao Strapi.md",
+    "React + Next.js/1 - Introdução teórica/5 - CSS in JS.md",
+    "React + Next.js/1 - Introdução teórica/6 - Introdução a Testes de Software.md",
+    "Pasted image 20241013093516.png",
+    "React + Next.js/assets/Pasted image 20241005102112.png",
+    "React + Next.js/assets/Pasted image 20240923185800.png",
+    "React + Next.js/assets/Pasted image 20240923185641.png",
+    "React + Next.js/assets/Pasted image 20240923185540.png",
+    "React + Next.js/assets/Pasted image 20240923185144.png",
+    "React + Next.js/assets/Pasted image 20240923184209.png",
+    "React + Next.js/assets/Pasted image 20240923184018.png",
+    "React + Next.js/assets/Pasted image 20240923183905.png",
+    "React + Next.js/assets/Pasted image 20240923183537.png",
+    "React + Next.js/Ferramentas/GraphQL Clients - Ferramentas.md",
+    "React + Next.js/Ferramentas/Algumas ferramentas essenciais.md",
+    "React + Next.js/Ferramentas",
     "React + Next.js/1 - Introdução teórica",
     "React + Next.js/assets",
     "Ada Tech/Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
     "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
-    "Front-end em React/assets/Pasted image 20240706100210.png",
     "Front-end em React/Javascript/Aula 6 - Funções de Alta Ordem.md",
     "Front-end em React/Javascript/Aula 7 - Funcional.md",
     "Front-end em React/Javascript/Aula 5 - Funções e Objects.md",
@@ -188,9 +223,6 @@
     "Front-end em React/Javascript/Kanban sem título.md",
     "Front-end em React/Typescript, Browser e POO/Aula 1 - JSON.md",
     "Front-end em React/Typescript, Browser e POO/Aula 2 - API Introdução.md",
-    "Front-end em React/assets/Pasted image 20240704103710.png",
-    "Front-end em React/assets/Pasted image 20240704095302.png",
-    "Front-end em React/assets/Pasted image 20240704095053.png",
     "Front-end em React/HTML e CSS/Flexbox e Grid Layout.md",
     "Front-end em React/Javascript/Aula 8 - Programação Assíncrona.md",
     "Kanban sem título.md",

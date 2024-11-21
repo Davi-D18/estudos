@@ -1,0 +1,81 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 17,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🐘",
+      "LiTestTube2",
+      "LiAlbum",
+      "LiComponent",
+      "📚",
+      "SiTypescript",
+      "FabSquareJs",
+      "FabCss3"
+    ],
+    "recentlyUsedIconsSize": 8,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 6,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Front-end em React/assets": {
+    "iconName": "LiImageDown",
+    "iconColor": "#57a608"
+  },
+  "Front-end em React": {
+    "iconName": "FabReact",
+    "iconColor": "#006eff"
+  },
+  "Front-end em React/HTML e CSS": "FabCss3",
+  "Front-end em React/Javascript": {
+    "iconName": "FabSquareJs",
+    "iconColor": "#c9cc0f"
+  },
+  "Front-end em React/Typescript, Browser e POO": {
+    "iconName": "SiTypescript",
+    "iconColor": "#3734ef"
+  },
+  "Front-end em React/React I - Introdução": {
+    "iconName": "FabReact",
+    "iconColor": "#1c4fc4"
+  },
+  "Front-end em React/React II - Funcionais e Hooks": {
+    "iconName": "FabReact",
+    "iconColor": "#4aa3b5"
+  },
+  "Front-end em React/APIs e Bibliotecas/Bibliotecas.md": "📚",
+  "Front-end em React/Styled Components": {
+    "iconName": "LiComponent",
+    "iconColor": "#5e0ff0"
+  },
+  "Front-end em React/APIs e Bibliotecas/Ferramentas.md": {
+    "iconName": "LiAlbum",
+    "iconColor": "#19a944"
+  },
+  "Front-end em React/Redux": {
+    "iconName": "LiAtom",
+    "iconColor": "#8047d7"
+  },
+  "Front-end em React/Testes e Deploy": {
+    "iconName": "LiTestTube2",
+    "iconColor": "#7748e5"
+  },
+  "PHP-ZP": "🐘"
+}

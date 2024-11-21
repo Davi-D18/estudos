@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRoute",
       "SiTypescript",
       "FabSquareJs",
       "FabCss3",
@@ -54,5 +55,9 @@
   "FullStack": {
     "iconName": "LiAtom",
     "iconColor": "#d41002"
+  },
+  "FullStack/Mod - 2/React Routes.md": {
+    "iconName": "LiRoute",
+    "iconColor": "#5018a5"
   }
 }

@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f471f3b692081cf0",
+        "id": "ae4d822021db0e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "87a55458d4581cc9",
+            "id": "17c5466c258e3690",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/Testes e Deploy/Aula 1 - Testes Unitários I.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a371575ed4936b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/Testes e Deploy/Aula 2 - Testes Unitários II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "237a99c54aafac4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/Testes e Deploy/Aula 2 - Testes Unitários II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "353815753b5d112f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -95,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -103,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -126,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
+                "file": "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Aula 1 - React + Styled Components I"
             }
           },
           {
@@ -143,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
+                "file": "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Aula 1 - React + Styled Components I"
             }
           },
           {
@@ -157,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -166,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md"
-              }
+                "file": "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Aula 1 - React + Styled Components I"
             }
           },
           {
@@ -175,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -203,16 +176,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "353815753b5d112f",
+  "active": "17c5466c258e3690",
   "lastOpenFiles": [
-    "Front-end em React/Testes e Deploy/Aula 3 - Deploy.md",
-    "Front-end em React/assets/Pasted image 20240909141328.png",
-    "Front-end em React/assets/Pasted image 20240909140811.png",
     "Front-end em React/Testes e Deploy/Aula 1 - Testes Unitários I.md",
     "Front-end em React/Testes e Deploy/Aula 2 - Testes Unitários II.md",
-    "Front-end em React/assets/Pasted image 20240909140547.png",
     "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
     "Front-end em React/Styled Components/Aula 2 - Styled Components II.md",
+    "Front-end em React/Testes e Deploy/Aula 3 - Deploy.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
+    "Front-end em React/assets/Pasted image 20240909141328.png",
+    "Front-end em React/assets/Pasted image 20240909140811.png",
+    "Front-end em React/assets/Pasted image 20240909140547.png",
     "Front-end em React/APIs e Bibliotecas/Ferramentas.md",
     "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
     "Front-end em React/assets/Pasted image 20240908142123.png",
@@ -236,7 +210,6 @@
     "Pasted image 20240902114120.png.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
     "Front-end em React/Styled Components",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
     "Front-end em React/React II - Funcionais e Hooks/Dicas.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",
     "Front-end em React/Javascript/Métodos de Requisição.md",

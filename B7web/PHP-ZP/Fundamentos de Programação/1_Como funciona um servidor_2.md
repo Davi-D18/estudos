@@ -1,0 +1,2 @@
+Local padrão dos arquivos (Pode ser que mude dependendo da empresa de hospedagem)
+![[Pasted image 20241105100042.png]]Por padrão, o servidor local irá procurar primeiro o arquivo `index.html` ou `index.php` se não achar, ele irá exibir os arquivos que estão naquele diretório padrão ou que você configurou
