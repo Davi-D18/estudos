@@ -13,92 +13,107 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/2_Apache.md",
+                "file": "PHP-ZP/3_Banco de Dados/1_PHPMyAdmin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Apache"
+              "title": "1_PHPMyAdmin"
             }
           },
           {
-            "id": "02700235c651a59e",
+            "id": "8cdfe2793f22d686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/3_Configurando Apache.md",
+                "file": "PHP-ZP/3_Banco de Dados/2_Estrutura de Banco de Dados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Configurando Apache"
+              "title": "2_Estrutura de Banco de Dados"
             }
           },
           {
-            "id": "cf160c3d7844f493",
+            "id": "91695590671a9226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/4_O que é FTP.md",
+                "file": "PHP-ZP/3_Banco de Dados/3_Tipos de dados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_O que é FTP"
+              "title": "3_Tipos de dados"
             }
           },
           {
-            "id": "a4b5e2bdcfce40b4",
+            "id": "ea96e6db4679e872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/5_Onde colocar arquivos PHP.md",
+                "file": "PHP-ZP/3_Banco de Dados/4_Comando SELECT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5_Onde colocar arquivos PHP"
+              "title": "4_Comando SELECT"
             }
           },
           {
-            "id": "4e7badc7494fc97f",
+            "id": "93af2fd3dd3fc3b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/6_Básico de PHP.md",
+                "file": "PHP-ZP/3_Banco de Dados/5_Comando INSERT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6_Básico de PHP"
+              "title": "5_Comando INSERT"
             }
           },
           {
-            "id": "cf8974252b8d76e5",
+            "id": "0543bf4e8910433f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP-ZP/Fundamentos de Programação/7_Variáveis.md",
+                "file": "PHP-ZP/3_Banco de Dados/6_Comando UPDATE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7_Variáveis"
+              "title": "6_Comando UPDATE"
+            }
+          },
+          {
+            "id": "6d90743d4194a9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP-ZP/3_Banco de Dados/5_Comando INSERT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5_Comando INSERT"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,22 +268,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39e279e82dcd448d",
+  "active": "6d90743d4194a9b7",
   "lastOpenFiles": [
-    "PHP-ZP/Fundamentos de Programação/6_Básico de PHP.md",
-    "PHP-ZP/Fundamentos de Programação/7_Variáveis.md",
-    "PHP-ZP/Fundamentos de Programação/5_Onde colocar arquivos PHP.md",
-    "PHP-ZP/Fundamentos de Programação/4_O que é FTP.md",
+    "PHP-ZP/3_Banco de Dados/7_Comando DELETE.md",
+    "PHP-ZP/3_Banco de Dados/6_Comando UPDATE.md",
+    "PHP-ZP/3_Banco de Dados/5_Comando INSERT.md",
+    "PHP-ZP/3_Banco de Dados/4_Comando SELECT.md",
+    "PHP-ZP/3_Banco de Dados/3_Tipos de dados.md",
+    "PHP-ZP/2_Javascript Básico/1_Refresh e Redirect.md",
+    "PHP-ZP/3_Banco de Dados/2_Estrutura de Banco de Dados.md",
+    "PHP-ZP/3_Banco de Dados/1_PHPMyAdmin.md",
+    "PHP-ZP/3_Banco de Dados",
+    "PHP-ZP/1_Fundamentos de Programação/10_Projeto_anti F5.md",
+    "PHP-ZP/2_Javascript Básico",
+    "PHP-ZP/1_Fundamentos de Programação/9_Múltiplos arquivos PHP.md",
+    "PHP-ZP/1_Fundamentos de Programação/8_Receber dados de um formulário.md",
+    "PHP-ZP/assets/Pasted image 20241123104144.png",
+    "PHP-ZP/1_Fundamentos de Programação/7_Variáveis.md",
+    "PHP-ZP/1_Fundamentos de Programação/6_Básico de PHP.md",
+    "PHP-ZP/1_Fundamentos de Programação/5_Onde colocar arquivos PHP.md",
+    "PHP-ZP/1_Fundamentos de Programação/4_O que é FTP.md",
     "PHP-ZP/assets/Pasted image 20241115204236.png",
-    "PHP-ZP/Fundamentos de Programação/3_Configurando Apache.md",
-    "PHP-ZP/Fundamentos de Programação/2_Apache.md",
+    "PHP-ZP/1_Fundamentos de Programação/3_Configurando Apache.md",
+    "PHP-ZP/1_Fundamentos de Programação/2_Apache.md",
     "PHP-ZP/assets/Pasted image 20241105101028.png",
     "PHP-ZP/assets/Pasted image 20241105100958.png",
-    "PHP-ZP/Fundamentos de Programação/1_Como funciona um servidor_2.md",
+    "PHP-ZP/1_Fundamentos de Programação/1_Como funciona um servidor_2.md",
     "PHP-ZP/assets/Pasted image 20241105100042.png",
     "PHP-ZP/assets",
     "PHP-ZP/assets/Pasted image 20241105095921.png",
-    "PHP-ZP/Fundamentos de Programação",
+    "PHP-ZP/1_Fundamentos de Programação",
     "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
     "Front-end em React/Testes e Deploy/Aula 3 - Deploy.md",
     "Front-end em React/assets/Pasted image 20240909141328.png",
@@ -281,27 +310,13 @@
     "Front-end em React/APIs e Bibliotecas/Ferramentas.md",
     "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
     "Front-end em React/assets/Pasted image 20240908142123.png",
-    "Front-end em React/Testes e Deploy/Testes Unitários.md",
-    "Front-end em React/assets/Pasted image 20240908102848.png",
-    "Front-end em React/APIs e Bibliotecas/APIs para praticar.md",
-    "jestjs.org.md",
-    "Front-end em React/Redux/Aula 3 - Redux III.md",
     "Front-end em React/Testes e Deploy",
-    "Front-end em React/Redux/Aula 2 - Redux II.md",
-    "Front-end em React/Redux/Aula 1 - Redux I.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
     "Front-end em React/Redux",
-    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
-    "Pasted image 20240902114120.png.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
     "Front-end em React/Styled Components",
     "Front-end em React/React II - Funcionais e Hooks",
     "Front-end em React/React I - Introdução",
     "Front-end em React/Javascript/Sem título.canvas",
     "Front-end em React/APIs e Bibliotecas",
-    "Sem título.canvas",
-    "Front-end em React/Typescript, Browser e POO",
-    "Recording 20240629225354.webm"
+    "Sem título.canvas"
   ]
 }
