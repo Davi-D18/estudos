@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d491e89c847996ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b218fad7f23818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71481e5d39bb1bfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9ba760d95eb27ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec06da2d12c9687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e279e82dcd448d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "11f18d4346b3fcb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1d44af92d57066e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adc399db533fa853",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d7b9ea64745c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "583b293eec071d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Preparando Ambiente"
+            }
+          },
+          {
+            "id": "305523500c14d292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Preparando Ambiente"
+            }
+          },
+          {
+            "id": "3f2d993183778583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fb4d27e44deb27f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP 7/1_Introdução PHP/Preparando Ambiente.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Preparando Ambiente"
+            }
+          },
+          {
+            "id": "c742ad3f9e28dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false,
+      "translate:Open translation view": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "71481e5d39bb1bfb",
+  "lastOpenFiles": [
+    "Habitos/Organização.md",
+    "Foco/Multitarefa.md",
+    "Foco/Sucesso e Disciplina.md",
+    "Foco/Momento Eureca.md",
+    "Foco/Reflexão e Ação em Foco.md",
+    "Foco/Poder da Força de Vontade.md",
+    "Foco/Força de Vontade, Como manter.md",
+    "Foco/Importância da Força.md",
+    "Foco/Como buscar o bem estar.md",
+    "Foco/Lidar com Desânimo.md",
+    "Habitos",
+    "Foco/Foco.md",
+    "Foco/Ilusão de Multitarefa.md",
+    "Aprendendo a Aprender/Resumo.md",
+    "Foco",
+    "Aprendendo a Aprender/Bibliografia Complementar.md",
+    "Aprendendo a Aprender/Ferramentas.md",
+    "Aprendendo a Aprender/Exercite corpo e mente.md",
+    "Aprendendo a Aprender/Gestão de Tempo e Espaço.md",
+    "Aprendendo a Aprender/Rotina de Aprendizagem.md",
+    "Aprendendo a Aprender/Medindo Evolução.md",
+    "Aprendendo a Aprender/Niveis e Mensuração.md",
+    "Aprendendo a Aprender/assets/Pasted image 20250118154616.png",
+    "Aprendendo a Aprender/assets/Pasted image 20250118154338.png",
+    "Aprendendo a Aprender/Smart.md",
+    "Aprendendo a Aprender/assets/Pasted image 20250118153512.png",
+    "Aprendendo a Aprender/assets/Pasted image 20250118153338.png",
+    "Aprendendo a Aprender/Metas.md",
+    "Aprendendo a Aprender/assets",
+    "Aprendendo a Aprender/assets/Pasted image 20250118153019.png",
+    "Aprendendo a Aprender/Memoria de Longo Prazo.md",
+    "Aprendendo a Aprender/Prática Distribuida.md",
+    "Aprendendo a Aprender/Focado e Difuso.md",
+    "Aprendendo a Aprender/Mindsets.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados",
+    "React + Next.js/2-Iniciando com Strapi",
+    "PHP 7/1_Introdução PHP",
+    "PHP 7",
+    "Laravel + VueJs/1 - Instalação",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js",
+    "Pasted image 20241013093516.png",
+    "React + Next.js/assets/Pasted image 20241005102112.png",
+    "React + Next.js/assets/Pasted image 20240923185800.png",
+    "React + Next.js/assets/Pasted image 20240923185641.png",
+    "React + Next.js/assets/Pasted image 20240923185540.png",
+    "React + Next.js/Ferramentas",
+    "Front-end em React/Javascript/Sem título.canvas",
+    "Sem título.canvas"
+  ]
+}

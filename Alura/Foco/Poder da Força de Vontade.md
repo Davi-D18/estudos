@@ -1,0 +1,5 @@
+ A aula aborda a importância da força de vontade e como ela impacta nossas ações e resultados no dia a dia. Através da história de João, que se sente desmotivado após as férias e enfrenta desafios relacionados à saúde e ao trabalho, são discutidas possíveis razões para essa sensação, como estresse, excesso de autoconfiança, pensamento negativo, procrastinação e falta de sono.
+
+A aula enfatiza que a raiz do problema muitas vezes está na força de vontade, que é essencial para manter o foco e conquistar objetivos, como melhorar a saúde e evitar atrasos. Além disso, sugere que, ao enfrentar dificuldades, é importante buscar alternativas e ter paciência, pois a formação de novos hábitos pode levar tempo.
+
+Por fim, são apresentadas dicas para colocar a força de vontade em prática, como implementar novos comportamentos, resistir a tentações e identificar os momentos do dia em que se tem mais energia para realizar tarefas importantes.

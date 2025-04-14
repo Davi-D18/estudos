@@ -8,77 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0c0f0dd3d21b661",
+            "id": "5a009cf04f709a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/2-Iniciando com Strapi/1_ Por baixo dos Panos (Strapi).md",
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/3_Criando rota e controller (exemplo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_ Por baixo dos Panos (Strapi)"
+              "title": "3_Criando rota e controller (exemplo)"
             }
           },
           {
-            "id": "e2d968c9a13654e7",
+            "id": "edee4a58649e6829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/2-Iniciando com Strapi/2_Comandos PostgreSQL.md",
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/4_Entendendo o CTX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Comandos PostgreSQL"
+              "title": "4_Entendendo o CTX"
             }
           },
           {
-            "id": "291f6e299aeb3ba2",
+            "id": "55f60591f1cf7eb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/2-Iniciando com Strapi/3_Iniciando projeto Strapi.md",
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/5_Criando um service simples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Iniciando projeto Strapi"
+              "title": "5_Criando um service simples"
             }
           },
           {
-            "id": "f0c9587324f50985",
+            "id": "41a02a547d7cc937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/2-Iniciando com Strapi/4_Criando uma Collection Type.md",
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/6_Fetch no Strapi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Criando uma Collection Type"
+              "title": "6_Fetch no Strapi"
             }
           },
           {
-            "id": "fc695cc7a3772553",
+            "id": "7ddd4315bc0df020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React + Next.js/2-Iniciando com Strapi/5_Personalizando Strapi.md",
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/7_Fazendo scrapper com JSDOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5_Personalizando Strapi"
+              "title": "7_Fazendo scrapper com JSDOM"
+            }
+          },
+          {
+            "id": "fb83db4a09f444d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/8_Criando dados relacionais de Many to Many.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8_Criando dados relacionais de Many to Many"
+            }
+          },
+          {
+            "id": "db3d543217065ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/9_Upload de imagens no Strapi usando o Form Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9_Upload de imagens no Strapi usando o Form Data"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -238,35 +266,38 @@
   },
   "active": "39e279e82dcd448d",
   "lastOpenFiles": [
-    "React + Next.js/2-Iniciando com Strapi/4_Criando uma Collection Type.md",
-    "React + Next.js/2-Iniciando com Strapi/5_Personalizando Strapi.md",
-    "React + Next.js/2-Iniciando com Strapi/3_Iniciando projeto Strapi.md",
-    "React + Next.js/2-Iniciando com Strapi/2_Comandos PostgreSQL.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/8_Criando dados relacionais de Many to Many.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/9_Upload de imagens no Strapi usando o Form Data.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/7_Fazendo scrapper com JSDOM.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/6_Fetch no Strapi.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/5_Criando um service simples.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/4_Entendendo o CTX.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/3_Criando rota e controller (exemplo).md",
     "React + Next.js/2-Iniciando com Strapi/1_ Por baixo dos Panos (Strapi).md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/11_ Usando um boilerplate.md",
+    "React + Next.js/2-Iniciando com Strapi/2_Comandos PostgreSQL.md",
+    "React + Next.js/2-Iniciando com Strapi/3_Iniciando projeto Strapi.md",
+    "React + Next.js/2-Iniciando com Strapi/4_Criando uma Collection Type.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/4_Configurando Husky, lint-staged e commitlint.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/1_Scrapper.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados/2_Back-end do strapi.md",
+    "React + Next.js/2-Iniciando com Strapi/2.1- Criando scrapper de dados",
+    "React + Next.js/2-Iniciando com Strapi/6_Patch-Package.md",
+    "React + Next.js/2-Iniciando com Strapi/5_Personalizando Strapi.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/11_ Usando um boilerplate.md",
     "React + Next.js/2-Iniciando com Strapi",
-    "React + Next.js/1.1 - Boilerplate do Next.js/10_Github Actions.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/9_ Usando o Plop.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/8_Stories no Storybook.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/7_Usando o storybook.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/5_Usando styled-components com Next e TS.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/6_Testando Componentes Estilizados com Jest-styled-components.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/4_Configurando Husky, lint-staged e commitlint.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/2_Configurações extras.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/1 - Criando um projeto Next e configurando.md",
-    "React + Next.js/1.1 - Boilerplate do Next.js/3_Configurações de testes.md",
-    "PHP 7/1_Introdução PHP/Preparando Ambiente.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/10_Github Actions.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/9_ Usando o Plop.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/8_Stories no Storybook.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/7_Usando o storybook.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/5_Usando styled-components com Next e TS.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/6_Testando Componentes Estilizados com Jest-styled-components.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/2_Configurações extras.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/1 - Criando um projeto Next e configurando.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js/3_Configurações de testes.md",
     "PHP 7/1_Introdução PHP",
-    "Laravel + VueJs/1 - Instalação/Laravel.md",
     "PHP 7",
     "Laravel + VueJs/1 - Instalação",
-    "React + Next.js/1.1 - Boilerplate do Next.js",
-    "React + Next.js/1 - Introdução teórica/1 - Introdução ao Next.js.md",
-    "React + Next.js/1 - Introdução teórica/2 - Introdução ao GraphQL.md",
-    "React + Next.js/1 - Introdução teórica/3 - Introdução ao GraphQL Clients.md",
-    "React + Next.js/1 - Introdução teórica/4 - Introdução ao Strapi.md",
-    "React + Next.js/1 - Introdução teórica/5 - CSS in JS.md",
-    "React + Next.js/1 - Introdução teórica/6 - Introdução a Testes de Software.md",
+    "React + Next.js/1 - Introdução teórica/1.1 - Boilerplate do Next.js",
     "Pasted image 20241013093516.png",
     "React + Next.js/assets/Pasted image 20241005102112.png",
     "React + Next.js/assets/Pasted image 20240923185800.png",
@@ -277,14 +308,11 @@
     "React + Next.js/assets/Pasted image 20240923184018.png",
     "React + Next.js/assets/Pasted image 20240923183905.png",
     "React + Next.js/assets/Pasted image 20240923183537.png",
-    "React + Next.js/Ferramentas/GraphQL Clients - Ferramentas.md",
-    "React + Next.js/Ferramentas/Algumas ferramentas essenciais.md",
     "React + Next.js/Ferramentas",
     "React + Next.js/1 - Introdução teórica",
     "React + Next.js/assets",
     "Front-end em React/APIs",
     "Front-end em React/Javascript/Sem título.canvas",
-    "Sem título.canvas",
-    "Front-end em React/Typescript, Browser e POO"
+    "Sem título.canvas"
   ]
 }

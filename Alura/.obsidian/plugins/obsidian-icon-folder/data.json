@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 17,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiServer",
+      "🎃",
+      "LiFolderClock",
+      "📔",
+      "SiTypescript",
+      "FabSquareJs",
+      "FabCss3",
+      "FabReact"
+    ],
+    "recentlyUsedIconsSize": 8,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 6,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Front-end em React/assets": {
+    "iconName": "LiImageDown",
+    "iconColor": "#57a608"
+  },
+  "Front-end em React": {
+    "iconName": "FabReact",
+    "iconColor": "#006eff"
+  },
+  "Front-end em React/HTML e CSS": "FabCss3",
+  "Front-end em React/Javascript": {
+    "iconName": "FabSquareJs",
+    "iconColor": "#c9cc0f"
+  },
+  "Front-end em React/Typescript, Browser e POO": {
+    "iconName": "SiTypescript",
+    "iconColor": "#3734ef"
+  },
+  "React + Next.js": "📔",
+  "React + Next.js/Ferramentas": "LiFolderClock",
+  "Laravel + VueJs": "🎃",
+  "PHP 7": {
+    "iconName": "LiServer",
+    "iconColor": "#620c73"
+  }
+}

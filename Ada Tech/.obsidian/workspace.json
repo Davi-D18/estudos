@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
+                "file": "Front-end em React/Typescript, Browser e POO/Aula 6 - Programação Orientada a Objetos (POO).md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bibliotecas"
+              "title": "Aula 6 - Programação Orientada a Objetos (POO)"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -152,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ],
@@ -183,17 +184,22 @@
   },
   "active": "17c5466c258e3690",
   "lastOpenFiles": [
+    "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
+    "Front-end em React/Redux/Aula 3 - Redux III.md",
+    "Front-end em React/Redux/Aula 2 - Redux II.md",
+    "Front-end em React/Redux/Aula 1 - Redux I.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
+    "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
+    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
+    "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
     "Front-end em React/Testes e Deploy/Aula 1 - Testes Unitários I.md",
     "Front-end em React/Testes e Deploy/Aula 2 - Testes Unitários II.md",
-    "Front-end em React/Styled Components/Aula 1 - React + Styled Components I.md",
     "Front-end em React/Styled Components/Aula 2 - Styled Components II.md",
     "Front-end em React/Testes e Deploy/Aula 3 - Deploy.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 4 - Hook de Referência.md",
     "Front-end em React/assets/Pasted image 20240909141328.png",
     "Front-end em React/assets/Pasted image 20240909140811.png",
     "Front-end em React/assets/Pasted image 20240909140547.png",
     "Front-end em React/APIs e Bibliotecas/Ferramentas.md",
-    "Front-end em React/APIs e Bibliotecas/Bibliotecas.md",
     "Front-end em React/assets/Pasted image 20240908142123.png",
     "Front-end em React/Testes e Deploy/Testes Unitários.md",
     "Front-end em React/assets/Pasted image 20240908102848.png",
@@ -204,16 +210,11 @@
     "Front-end em React/assets/Pasted image 20240907180500.png",
     "Front-end em React/assets/Pasted image 20240907180218.png",
     "Front-end em React/assets/Pasted image 20240907175654.png",
-    "Front-end em React/Redux/Aula 3 - Redux III.md",
     "Front-end em React/Testes e Deploy",
-    "Front-end em React/Redux/Aula 2 - Redux II.md",
-    "Front-end em React/Redux/Aula 1 - Redux I.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 1 - Componentes Funcionais e Estilização.md",
     "Front-end em React/Redux",
-    "Front-end em React/Typescript, Browser e POO/Aula 4 - Typescript I.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 6 - Hook de Contexto.md",
     "Pasted image 20240902114120.png.md",
-    "Front-end em React/React II - Funcionais e Hooks/Aula 5 - Hook de Memoização.md",
     "Front-end em React/Styled Components",
     "Front-end em React/React II - Funcionais e Hooks/Dicas.md",
     "Front-end em React/React II - Funcionais e Hooks/Aula 3 - Hook de Efeito.md",

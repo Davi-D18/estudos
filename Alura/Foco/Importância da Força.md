@@ -1,0 +1,13 @@
+A aula aborda a importância da força de vontade e do foco para aumentar a produtividade no dia a dia. Através da história de João, que enfrenta dificuldades em manter o ritmo de trabalho após o almoço, é discutido como a procrastinação pode se tornar um hábito prejudicial. A psicóloga McGonagall destaca que, muitas vezes, acreditamos que faremos escolhas melhores no futuro, mas isso pode nos levar a ceder às tentações do presente.
+
+Para evitar essa situação, é fundamental focar no agora e estabelecer recompensas para as tarefas cumpridas, o que ajuda a criar uma associação positiva com o trabalho. A consciência sobre as próprias ações e a reflexão diária são essenciais para evitar o piloto automático e aproveitar melhor o tempo. Além disso, a aula sugere o uso de gatilhos para impulsionar a motivação e a criação de hábitos que levem ao alcance dos objetivos. Com persistência, essas práticas se tornam naturais e facilitam a conquista das metas desejadas.
+
+Vamos imaginar que a vida é como uma corrida de obstáculos. Cada dia é uma nova pista, cheia de desafios e distrações que podem nos desviar do caminho. João, nosso corredor, começa o dia cheio de energia, como um atleta bem preparado, pronto para enfrentar a corrida. No entanto, após o almoço, ele se depara com um obstáculo inesperado: a tentação de se distrair com um site de esportes, que se transforma em uma barreira que o impede de continuar sua corrida.
+
+A psicóloga McGonagall é como uma treinadora que nos alerta sobre a armadilha de pensar que podemos superar esses obstáculos amanhã. Ela nos lembra que, assim como um corredor que se distrai com a plateia, podemos perder o foco e deixar que as tentações nos desviem do nosso objetivo.
+
+Para ajudar João a manter o foco, podemos pensar nas recompensas como uma linha de chegada. Cada tarefa cumprida é um passo em direção a essa linha, e ao alcançá-la, ele pode se dar um prêmio, como ir ao cinema. Isso faz com que cada obstáculo se torne uma oportunidade de crescimento, assim como um corredor que se fortalece a cada desafio superado.
+
+Além disso, a consciência é como um mapa que nos guia na corrida. Se João não estiver atento ao seu percurso, ele pode acabar se perdendo e não chegar a lugar algum. Portanto, refletir sobre suas ações diariamente é como revisar o mapa antes de cada corrida, garantindo que ele esteja sempre no caminho certo.
+
+Os gatilhos são como os sinais de pista que indicam a direção a seguir. Se João quer ler mais, deixar um livro ao lado da cama é como colocar um sinal que o lembra de que deve seguir por aquele caminho. Com o tempo e a prática, esses hábitos se tornam parte da corrida, e João se torna um corredor mais eficiente, capaz de superar os obstáculos com facilidade e alcançar seus objetivos.
