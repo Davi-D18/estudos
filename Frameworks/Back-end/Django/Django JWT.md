@@ -108,3 +108,102 @@ REST_FRAMEWORK = {
 ```
 
 Após configurado isso, basta entrar no painel de admin do Django e definir as permissões para cada usuário
+
+
+> [!NOTE] Importante
+> As permissões configuradas no **core** elas serão aplicadas globalmente
+
+### Aplicando permissões diferentes para cada rota
+Você pode definir uma rota com permissão personalizada, analise o exemplo:
+```python
+from rest_framework import viewsets, permissions # basta importar o permissions do rest_framework
+
+class Brand(models.Model):
+    name = models.CharField(max_length=100, verbose_name="Nome")
+    description = models.TextField(null=True, blank=True, verbose_name="Descrição")
+    created_at = models.DateTimeField(auto_now_add=True, verbose_name="Criado em")
+    updated_at = models.DateTimeField(auto_now=True, verbose_name="Atualizado em")
+    permission_classes = [permissions.AllowAny] # Usar como propriedade na classe
+```
+
+
+## Permissões Personalizadas
+Caso não queira usar as permissões prontas do DRF ou adicionar permissões personalizadas, basta criar um arquivo `permissions.py` e nele usar uma estrutura como essa:
+
+```python
+from rest_framework import permissions # importa as permissions do DRF
+
+
+class CarOwnerPermission(permissions.BasePermission): # Usa a classe base
+
+	# Aqui se refere a rota em si, ao acessar a rota, essa função será chamada
+	# Onde retorna apenas os carros que estão no nome do usuário
+    def has_permission(self, request, view): 
+        if view.action == 'list':
+            view.queryset = view.queryset.filter(owner=request.user)
+            return True
+        return super().has_permission(request, view)
+
+	# Se o usuário tentar modificar ou apagar um carro que está registrado no usuário dele, vai ser permitido, do contrário, não é permitido
+    def has_object_permission(self, request, view, obj):
+        return obj.owner == request.user
+
+```
+
+Depois, basta ir no controller/view e adicionar a Classe:
+```python
+from cars.permissions import CarOwnerPermission
+
+
+class CarModelViewSet(viewsets.ModelViewSet):
+    queryset = Car.objects.all()
+    serializer_class = CarModelSerializer
+    filter_backends = [RQLFilterBackend]
+    rql_filter_class = CarFilterClass
+    permission_classes = [permissions.DjangoModelPermissions, CarOwnerPermission,] 
+
+```
+
+
+> [!NOTE] Ordem das permissões
+> Ao definir permissões em alguma rota seja personalizada ou não, a ordem é respeitada, exemplo:
+> Aqui **permissions.DjangoModelPermissions** ele irá verificar primeiro as permissões padrão do Django, caso ele tenha permissão, ele vai verificar o  **CarOwnerPermission** se tiver acesso, ele é liberado
+
+## Paginação
+O DRF tem algumas classes de paginação prontas para utilizar:
+
+- `PageNumberPagination`
+    
+    - O estilo **PageNumberPagination** aceita um único número de página nos parâmetros de consulta da solicitação
+    - É fixo
+- `LimitOffsetPagination`
+    
+    - No estilo LimitOffsetPagination, o cliente inclui um parâmetro de consulta “limite” e “deslocamento”
+    - Dinâmico
+- `CursorPagination`
+    
+    - O **CursorPagination** fornece um indicador de cursor para percorrer o conjunto de resultados. Ele fornece apenas controles de avanço ou reverso e não permite que o cliente navegue para posições arbitrárias. O estilo **CursorPagination** assume que deve haver um campo de carimbo de data / hora criado na instância do modelo e ordena os resultados por '-created’
+
+Nas configurações do projeto, adicione:
+```python
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 10
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.CursorPagination',
+    'PAGE_SIZE': 10
+}
+```
+
+No `LimitOffsetPagination` ele inclui alguns parâmetros na URL, como:
+- `limit`
+	- No **limit** é o limite de registros por página
+- `offset`
+	- No **offset** é a partir de qual registro começa, se colocar 10, ele começa do registro 10 a paginar
