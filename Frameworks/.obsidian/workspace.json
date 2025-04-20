@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fa31a4762dca9d42",
+        "id": "1943fb38d1748325",
         "type": "tabs",
         "children": [
           {
-            "id": "fb38728f56e1f3b5",
+            "id": "f62e50d346dffcc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-end/Django/Django ORM.md",
+                "file": "Back-end/Django/Django JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Django ORM"
+              "title": "Django JWT"
             }
           },
           {
-            "id": "7c524f8b6d5216e6",
+            "id": "3d6810bc22224603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-end/Django/Serializers.md",
+                "file": "Back-end/Django/Implementando cadastramento de usuários(simples).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serializers"
+              "title": "Implementando cadastramento de usuários(simples)"
             }
           },
           {
-            "id": "defbf2da34204db3",
+            "id": "d184e4add23bfff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-end/Django/Serializers.md",
+                "file": "Back-end/Django/Usando Django-Rest-Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serializers"
-            }
-          },
-          {
-            "id": "748d096318377982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-end/Django/Django Admin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Django Admin"
+              "title": "Usando Django-Rest-Auth"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,14 +197,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0373372a74292ba2",
+  "active": "d184e4add23bfff9",
   "lastOpenFiles": [
-    "Back-end/Django/Serializers.md",
+    "Back-end/Django/Implementando cadastramento de usuários(simples).md",
+    "Back-end/Django/Usando Django-Rest-Auth.md",
+    "Back-end/Django/Django JWT.md",
+    "Back-end/Django/Django Camadas.md",
     "Back-end/Django/Django Admin.md",
+    "Back-end/Django/Aplicando permissões em rotas.md",
+    "Back-end/Django/Serializers.md",
     "Back-end/Django/ViewSets e Routers.md",
     "Back-end/Django/Django ORM.md",
-    "Back-end/Django/Django Camadas.md",
-    "Back-end/Django/Linter e  Dependências.md",
-    "Back-end/Django/Django JWT.md"
+    "Arquitetura/Multi Tenant.md",
+    "Arquitetura",
+    "Back-end/Django/Linter e  Dependências.md"
   ]
 }

@@ -8,14 +8,14 @@ pip install django djangorestframework
 ## 2. ORM Django: Fundamentos
 
 ### 2.1 Tipos de Campos
-| Campo                 | Descrição                                      | Exemplo de Uso                     |
-|-----------------------|-----------------------------------------------|------------------------------------|
-| **CharField**         | Strings curtas (ex: nomes)                    | `nome = CharField(max_length=100)` |
-| **TextField**         | Textos longos                                 | `descricao = TextField()`          |
-| **IntegerField**      | Inteiros padrão (-2¹³¹ a 2¹³¹-1)              | `idade = IntegerField()`           |
-| **DateTimeField**     | Data e hora com suporte a timezone            | `criado_em = DateTimeField(auto_now_add=True)` |
-| **ForeignKey**        | Relacionamento 1-N com outro modelo           | `autor = ForeignKey(User, on_delete=models.CASCADE)` |
-| **EmailField**        | Valida formato de e-mail                      | `email = EmailField(max_length=254)` |
+| Campo             | Descrição                           | Exemplo de Uso                                       |
+| ----------------- | ----------------------------------- | ---------------------------------------------------- |
+| **CharField**     | Strings curtas (ex: nomes)          | `nome = CharField(max_length=100)`                   |
+| **TextField**     | Textos longos                       | `descricao = TextField()`                            |
+| **IntegerField**  | Inteiros padrão (-2¹³¹ a 2¹³¹-1)    | `idade = IntegerField()`                             |
+| **DateTimeField** | Data e hora com suporte a timezone  | `criado_em = DateTimeField(auto_now_add=True)`       |
+| **ForeignKey**    | Relacionamento 1-N com outro modelo | `autor = ForeignKey(User, on_delete=models.CASCADE)` |
+| **EmailField**    | Valida formato de e-mail            | `email = EmailField(max_length=254)`                 |
 
 **Campos Especiais:**
 - `UUIDField`: Identificador único universal
