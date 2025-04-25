@@ -37,3 +37,5 @@ erDiagram
     PERMISSION     ||--o{ USER_PERMISSION   : "é atribuído a"
     GROUP          ||--o{ GROUP_PERMISSION  : "recebe"
     PERMISSION     ||--o{ GROUP_PERMISSION  : "é atribuído a"
+```
+
