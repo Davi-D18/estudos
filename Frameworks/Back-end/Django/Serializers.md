@@ -570,4 +570,3 @@ class ProdutoSerializer(serializers.ModelSerializer):
 4. **Relacionamentos:** Escolha entre IDs, slugs ou serializers aninhados conforme a necessidade da API.
 5. **Teste seus serializers:** Garanta que todas as validações e transformações funcionem como esperado.
 
-Com esse conhecimento, você está pronto para dominar os serializers no DRF e construir APIs robustas e seguras! 🚀
