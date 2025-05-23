@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Django Tabelas"
             }
+          },
+          {
+            "id": "5b5dd97b55e64259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testes/Cypress/Básico Cypress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Básico Cypress"
+            }
+          },
+          {
+            "id": "22224e08658acbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testes/Cypress/Básico Cypress.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Básico Cypress"
+            }
+          },
+          {
+            "id": "3e9e68c9300da62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-end/Django/Django JWT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Django JWT"
+            }
+          },
+          {
+            "id": "64692e58366c4211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testes/Cypress/20%.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20%"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,24 +224,29 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-importer:Open Importer": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "46f2cf510526cfb9",
+  "active": "0373372a74292ba2",
   "lastOpenFiles": [
-    "Back-end/Django/Métodos das CBVs.md",
+    "Back-end/Django/Django JWT.md",
+    "Testes/Cypress/20%.md",
+    "Back-end/Django/Django Admin.md",
+    "Back-end/Django/Django ORM.md",
+    "Back-end/Django/Serializers.md",
+    "Back-end/Django/Implementando cadastramento de usuários(simples).md",
+    "DJANGO CHEAT SHEET — por CosmicLace.md",
+    "Back-end/Django/Usando Django-Rest-Auth.md",
+    "Testes/Cypress/Básico Cypress.md",
+    "Testes/Cypress/Avançando com Cypress.md",
     "Back-end/Django/Django Tabelas.md",
+    "Testes/Cypress",
+    "Testes",
+    "Back-end/Django/Métodos das CBVs.md",
     "Back-end/Django/Formatando dados com Serializer.md",
     "Back-end/Django/Django Camadas.md",
-    "Back-end/Django/Serializers.md",
-    "Back-end/Django/Django JWT.md",
-    "Back-end/Django/Implementando cadastramento de usuários(simples).md",
-    "Back-end/Django/Usando Django-Rest-Auth.md",
-    "Back-end/Django/Django Admin.md",
     "Back-end/Django/Aplicando permissões em rotas.md",
     "Back-end/Django/ViewSets e Routers.md",
-    "Back-end/Django/Django ORM.md",
     "Arquitetura/Multi Tenant.md",
     "Arquitetura",
     "Back-end/Django/Linter e  Dependências.md"
